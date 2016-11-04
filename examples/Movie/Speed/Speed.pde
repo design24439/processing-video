@@ -18,7 +18,7 @@ void setup() {
 }
 
 void movieEvent(Movie movie) {
-  mov.read();  
+  movie.read();  
 }
 
 void draw() {    
